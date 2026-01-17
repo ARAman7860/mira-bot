@@ -1,1 +1,5 @@
-
+{
+  "email": "FACEBOOK_EMAIL",
+  "password": "FACEBOOK_PASSWORD",
+  "prefix": "!"
+}
